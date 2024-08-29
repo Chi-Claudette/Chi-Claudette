@@ -11,7 +11,6 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on **my portfolio(https://github.com/Chi-Claudette/my-portfolio-website) and react js project**
 - 🌱 I’m currently learning **react js and react native**
 - 👯 I’m looking to collaborate on **Data science projects**
-- 📫 How to reach me: **https://x.com/ChiClaudette2,  https://www.linkedin.com/in/chi-mah-b00597217/**
 - 😄 Pronouns: **her/she**
 - ⚡ Fun fact: **I love singing, playing games, watching series, and more**
 
